@@ -11,7 +11,7 @@ const MyDashboard=({children,src,logout})=>{
                     <button onClick={logout}>LOGOUT</button>
                 </div>
             </div>
-            <div className="nav-board raleway">
+            <div className="nav-board raleway ">
                 <div>
                     <a href="/user">HOME</a>
                 </div>
