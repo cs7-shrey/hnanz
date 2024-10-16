@@ -16,6 +16,9 @@ const EntryPage=()=>{
     return (
         <div className="entry-main raleway">
             <button className="entry-button glow-box" onClick={loginWithRedirect}>Authenticate</button>
+            <div>
+                hello world
+            </div>
         </div>
     )
 }
